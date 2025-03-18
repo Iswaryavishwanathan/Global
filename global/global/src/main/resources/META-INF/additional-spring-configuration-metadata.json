@@ -1,0 +1,112 @@
+{"properties": [
+  {
+    "name": "spring.datasource.second.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.second.url'"
+  },
+  {
+    "name": "spring.datasource.second.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.second.username'"
+  },
+  {
+    "name": "spring.datasource.second.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.second.password'"
+  },
+  {
+    "name": "spring.datasource.second.hikari.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.second.hikari.maximum-pool-size'"
+  },
+  {
+    "name": "spring.datasource.second.hikari.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.second.hikari.maximum-pool-size'"
+  },
+  {
+    "name": "spring.datasource.second.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.second.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.third.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.third.url'"
+  },
+  {
+    "name": "spring.datasource.third.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.third.username'"
+  },
+  {
+    "name": "spring.datasource.third.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.third.password'"
+  },
+  {
+    "name": "spring.datasource.third.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.third.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.third.hikari.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.third.hikari.maximum-pool-size'"
+  },
+  {
+    "name": "spring.datasource.fourth.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.fourth.url'"
+  },
+  {
+    "name": "spring.datasource.fourth.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.fourth.username'"
+  },
+  {
+    "name": "spring.datasource.fourth.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.fourth.password'"
+  },
+  {
+    "name": "spring.datasource.fourth.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.fourth.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.fourth.hikari.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.fourth.hikari.maximum-pool-size'"
+  },
+  {
+    "name": "spring.datasource.primary.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.primary.url'"
+  },
+  {
+    "name": "spring.datasource.primary.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.primary.password'"
+  },
+  {
+    "name": "spring.datasource.primary.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.primary.username'"
+  },
+  {
+    "name": "spring.datasource.primary.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.primary.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.primary.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.primary.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.primary.hikari.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.primary.hikari.maximum-pool-size'"
+  }
+]}
